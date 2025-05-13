@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+body{
+    background-color: white;
+    font-family: Caveat;
+    margin: 2rem;
+}
+
+.image{
+    vertical-align:baseline;
+}
+.breakdown-container{
+    background-color:bisque;
+    padding:10px;
+    margin:0;
+    text-align:center;
+    border: 2px, dashed black;
+}
+.ingredients-ul{
+    font-size:14pt;
+}
+.h3{
+    font-size: 14pt;
+}
+.instructions-ul.li{
+    text-align:center;
+    font-size: 14pt;
+}
